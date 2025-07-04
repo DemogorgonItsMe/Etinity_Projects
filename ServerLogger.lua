@@ -75,7 +75,6 @@ local SETTINGS = {
     Security = {
         ObfuscatePlayerNames = false,
         FilterSensitiveData = true,
-        ComplyWithRobloxToS = true,
     }
 }
 
