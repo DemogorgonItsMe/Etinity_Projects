@@ -51,16 +51,15 @@ local SETTINGS = {
     Advanced = {
         TrackTeleports = true,
         TrackTools = true,
-        TrackChat = false,  -- Note: May violate Roblox ToS
+        TrackChat = false,
         TrackPrivateServers = true,
     },
     
     -- Logging Settings
     Logging = {
         OutputToConsole = true,
-        OutputToUI = false,  -- Set to true if you implement UI
         MaxMessageHistory = 100,
-        Cooldown = 0.2,  -- Seconds between identical events
+        Cooldown = 0.2,
         TimestampFormat = "%H:%M:%S",
         ColorOutput = true,
     },
