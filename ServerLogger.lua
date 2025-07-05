@@ -1,3 +1,4 @@
+-- open source, enjoy skids
 game.StarterGui:SetCore("SendNotification", {
     Title = "Server Logger";
     Text = "Made by Demogorgon";
